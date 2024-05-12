@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "therapy-app-422815",
+  "private_key_id": "1deb6ddc8d747049bf356445114b1415c8ece810",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkdrinIhlYllur\n4em7b+nK4IxMgfDgz/FUsCVCBCH3enn4l54Z6vdA0h6Av/RD2ZHlElKhUS+ERRj9\nvrVtDD2se2u7PTA0TxE+avwtKYgX+oj0JFuv5CwBhelQMFb50MeHY6j6ugQMvqPp\nBQXfxIdkGie0srL7YU3sLQ6ntrqCjOI4sUQxlZkVjQfqoSOCLs8a7Wk+u4dyEb6v\nVSsA3095z3SKx5gYlFPDwm3oz2mDd/NP+RWixKvolCxDm8zJILWCltczFmgEyeWa\nUYZjr/t94dKS8bOh7CHXo1XVBqz688WqbPjy6x8KL1W13Kw3wrQq8lr1NYIG5qlF\nxN75+Rg5AgMBAAECggEAEuLnVZoe2wN5R4XL95Bkgr3Cns6VQNvgVN9dh/U9iVPx\nSdDvgP5womr+wb5JaLlFfc7a2leeY0wkEI+j+f/b3UDXIEtoi7lAu7BBgVYxoL9O\nlurN9Kb5PruIDYNfmZSWNUAGmbRe3q/N1uaSxB2nhqFSSffzgdaswiByfGQJixA/\ndLYnuXbrhkKq0E3lbQZWzLdQcg4J9M5YEjRWRX0HL7mY2yKC9PMFsMvxf9nTVomu\nTZujMDfZWD7k/lIiPGVDx2BpZaD7GXjgFpm4FacdliJrE47AXuFQjIwT1FQG17RW\nIn8n5jR2bonpFSiYmKIxh7NoIZ/BHzso1VHXIoyk2QKBgQDb8aie1NbvFmD0m17k\nddrzVEfvPSUbgOKN0z1DvxSv33Q17fdODAKi/2R3yp9H+2OEyNIsaoHbdKVPop5I\nNdpm/bybWHtsfsoA4InP+W77NiML1ftvvCaYinRb8Wl4eXetwIvgzAcPWMOaJEOD\nPO0ByHUv1ajmApImFl5KT5MpewKBgQC/bLxvxFV0apYZVNAq8p6yyRd07OPFts29\nqjaAQ6bzzKwudt+6qJCDH+GF38I4g3yxxD7mGGMkztBo72Q5uS9ObdoA3qylUB65\n87+6ylc0fEPNrZfF2VUrODVtHpoJLeccguecoTKu602tCrQ+o8vlEj+snm4+CGcD\nv0NTRlUU2wKBgQCaN1eEBrit64MP/+EJT5m2A+JsXPMn1bcEupi6Z8CZkJRrO++r\nScCPiYNoeyozzpB5ClZTzlo/BgrjS6Kv/xKkJEWapu/jowMAmnAG415txgfMxL0I\nG2T0kCAGV78cOg8wRVHOzUAmApcj/UlZO97y4RtJ7wX+QM845XY3pJQLAQKBgFW9\nNGGzRLtSCkzqShsSdLaLj3AVsqeaC2kKVkL5CkxkvjJJmEgYvDGfE/pMkMeTTUSq\nK6oP/kg8QejeYLviEChG18BP/HBHBJwxaw0VGB4wEoaLXFGH2Lf1AykO7dtyrfN9\nRpRHN1ZVmoMJKlZsMyU1GUQN6j7qsIljH5qrA+zFAoGBAKhwT2EB3zdV3QlD70Ih\nVjKzPItimfCvsuUGNjwR5B4XOKgTfPHe+Y2qgqVcWix52CT6tUFqQ3dlQo+Clpoc\n+QVNf1HrTdNLzyCUrbqSlYjzW4IsQIsB3nx3l8hEnqlo4gSeb5GpiVj+4Omf5b3z\nXZr0DEpaNvgS81zUhgIQDRnM\n-----END PRIVATE KEY-----\n",
+  "client_email": "therapy-app-ai@therapy-app-422815.iam.gserviceaccount.com",
+  "client_id": "100747877585651259763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/therapy-app-ai%40therapy-app-422815.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
